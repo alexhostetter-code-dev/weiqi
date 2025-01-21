@@ -7,5 +7,5 @@ https://www.youtube.com/watch?v=dHlan0bgr5U&list=PLmN0neTso3JzVlIQC3fwnP1qgIKp1x
 
 Here are some additional resources that I have used to learn the game:
 
-https://en.wikipedia.org/wiki/Go_(game)
+https://en.wikipedia.org/wiki/Go_(game) ,
 https://senseis.xmp.net/?PagesForBeginners
